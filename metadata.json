@@ -1,0 +1,6 @@
+{
+  "name": "CorePulse",
+  "description": "Analizador de rendimiento y telemetría en tiempo real de GPU, CPU, RAM, FPS y temperatura para juegos en Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

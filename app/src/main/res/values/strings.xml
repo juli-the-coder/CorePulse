@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CorePulse</string>
+    <string name="nav_monitor">Monitor</string>
+    <string name="nav_benchmark">Lab 3D</string>
+    <string name="nav_games">Juegos</string>
+    <string name="nav_hardware">Hardware</string>
+    <string name="notif_channel_name">Telemetría en Vivo</string>
+    <string name="notif_channel_desc">Muestra métricas de CPU, RAM y temperatura mientras juegas.</string>
+</resources>
